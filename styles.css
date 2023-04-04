@@ -1,0 +1,91 @@
+*,
+::after,
+::before {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* fonts */
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
+html {
+    font-size: 100%;
+}
+
+:root {
+    /* colors */
+    --white: hsl(0, 0%, 100%);
+    --lightgray: hsl(212, 45%, 89%);
+    --grayblue:hsl(220, 15%, 55%);
+    --darkblue: hsl(218, 44%, 22%);
+    
+    --borderRadius: 1.5rem;
+    --imageborderRadius: 0.5rem;
+
+    /* font */
+    --bodyfont: 'Outfit', sans-serif;
+
+    --backgroundColor: var(--grayblue);
+}
+
+body{
+    background: var(--lightgray);
+    font-family: var(--bodyfont);
+    font-weight: 400;
+}
+p {
+    font-size: 0.9375rem;
+}
+.img {
+    width: 100%;
+    display: block;
+    object-fit: cover;
+}
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    margin-bottom: 0.5rem;
+}
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+/* 
+==============================================
+QR Code
+=============================================
+*/
+
+.card-container {
+    min-height: 100vh;;
+    margin: 0 auto;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    justify-items: center;
+}
+
+.card {
+    background: var(--white);
+    padding: 1.5rem 1rem;
+    border-radius: var(--borderRadius); 
+    text-align: center;   
+    max-width: 365px;
+    width: 90%;
+}
+
+.card-img {
+    border-radius: var(--imageborderRadius);
+    margin-bottom: 1.5rem;
+}
+
+.card-info h2 {
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+}
+
+.card-info p {
+    color: var(--grayblue);
+    padding: 1rem;
+}
