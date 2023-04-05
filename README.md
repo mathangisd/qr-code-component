@@ -17,7 +17,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 ## Overview
-#
 ### Screenshot
 
 
@@ -38,7 +37,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 ## My process
-#
 ### Built with
 
 - Semantic HTML5 markup
@@ -59,7 +57,6 @@ I would like to keep working on other projects that would involve CSS grid, CSS 
 [Different ways to center a div on a page](https://dev.to/abthakur/different-ways-to-center-a-div-in-a-webpage-5enn) - Ayushman Bilas Thakur: This link was useful in showing the different ways to center a div.
 
 ## Author
-#
 - Website - [Mathangi Subramanian](https://github.com/mathangisd)
 - Frontend Mentor - [mathangisd](https://www.frontendmentor.io/profile/mathangisd)
 
