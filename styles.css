@@ -28,6 +28,7 @@ html {
 }
 
 body {
+
     background: var(--lightgray);
     font-family: var(--bodyfont);
     font-weight: 400;
@@ -57,7 +58,6 @@ QR Code
 
 .card-container {
     min-height: 100vh;;
-    margin: 0 auto;
     display: grid;
     justify-content: center;
     align-content: center;
