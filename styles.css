@@ -25,11 +25,9 @@ html {
 
     /* font */
     --bodyfont: 'Outfit', sans-serif;
-
-    --backgroundColor: var(--grayblue);
 }
 
-body{
+body {
     background: var(--lightgray);
     font-family: var(--bodyfont);
     font-weight: 400;
@@ -37,7 +35,7 @@ body{
 p {
     font-size: 0.9375rem;
 }
-.img {
+.img { 
     width: 100%;
     display: block;
     object-fit: cover;
