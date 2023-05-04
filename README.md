@@ -32,8 +32,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 # 
 ### Links
 
-- Solution URL : https://github.com/mathangisd/qr-code-component.git 
-- Live URL : [QR code component](https://qa-code-component.netlify.app/)
+- Solution URL : [QR code component Code](https://github.com/mathangisd/qr-code-component.git )
+- Live URL : [QR code component Netlify](https://qa-code-component.netlify.app/)
 
 
 ## My process
@@ -52,9 +52,11 @@ I would like to keep working on other projects that would involve CSS grid, CSS 
 
 ### Useful resources
 
-[HTML and CSS course](https://www.youtube.com/watch?v=-8ORfgUa8ow&list=PLnHJACx3NwAdT_8forzXYvx0o4A2VnoHX) - by amazing instructor [John Smilga](https://johnsmilga.com/) - This course helped me understand many basics of HTML and CSS.
-[How to Center a Div Using CSS Grid](https://www.sitepoint.com/css-grid-center-element/) - Fimber Elemuwa: This link explains how to center a div using css grid.
-[Different ways to center a div on a page](https://dev.to/abthakur/different-ways-to-center-a-div-in-a-webpage-5enn) - Ayushman Bilas Thakur: This link was useful in showing the different ways to center a div.
+[HTML and CSS course](https://www.youtube.com/watch?v=-8ORfgUa8ow&list=PLnHJACx3NwAdT_8forzXYvx0o4A2VnoHX) - by amazing instructor [John Smilga](https://johnsmilga.com/) - This course helped me understand many basic and advanced concepts of HTML and CSS.
+
+[How to Center a Div Using CSS Grid](https://www.sitepoint.com/css-grid-center-element/) - Fimber Elemuwa: This article explains how to center a div using css grid.
+
+[Different ways to center a div on a page](https://dev.to/abthakur/different-ways-to-center-a-div-in-a-webpage-5enn) - Ayushman Bilas Thakur: This article was useful in showing the different ways to center a div.
 
 ## Author
 - Website - [Mathangi Subramanian](https://github.com/mathangisd)
